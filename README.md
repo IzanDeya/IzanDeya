@@ -10,7 +10,7 @@ Y si se cae… al menos tiene auto-scaling, alertas y rollback 😄
 🔧 DevOps & Cloud Engineer  
 ☸️ Especializado en Kubernetes  
 ☁️ Arquitecturas cloud en AWS, GCP y Azure.  
-🏗️ Infraestructura como código 
+🏗️ Infraestructura como código    
 📦 CI/CD, GitOps y automatización  
 
 Mis pilares para que algo sea una buena infraestructura:
