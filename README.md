@@ -4,7 +4,7 @@
 
 ## 🚀 Sobre mí
 
-Construyo infraestructura que **no se caen los viernes por la tarde**.  
+Construyo infraestructuras que **no se caen los viernes por la tarde**.  
 Y si se cae… al menos tiene auto-scaling, alertas y rollback 😄
 
 🔧 DevOps & Cloud Engineer  
