@@ -1,9 +1,62 @@
-Hola, soy Izan 👋  
-¡Bienvenidos a mi GitHub! Soy un DevOps Junior con una gran pasión por el mundo de la automatización, la infraestructura como código y la optimización de procesos.  
+# 👋 ¡Hola, bienvenido a mi Github! 
 
-Sobre mí 🧑‍💻  
-Desde que empecé mi carrera en DevOps, he estado inmerso en la creación y gestión de entornos escalables y eficientes. Mi objetivo principal es mejorar continuamente la entrega de software, asegurando que los desarrolladores puedan enfocarse en escribir código de calidad mientras yo me ocupo de que todo funcione sin problemas.  
+---
 
-¿Qué sigue? 🎯   
-Siempre estoy buscando aprender y crecer en mi carrera. Estoy interesado en proyectos desafiantes que me permitan utilizar mis habilidades y aprender nuevas tecnologías. Si tienes alguna pregunta, sugerencia o simplemente quieres conectar, ¡no dudes en contactarme!   
+## 🚀 Sobre mí
 
+Construyo infraestructura que **no se caen los viernes por la tarde**.  
+Y si se cae… al menos tiene auto-scaling, alertas y rollback 😄
+
+🔧 DevOps & Cloud Engineer  
+☸️ Especializado en Kubernetes  
+☁️ Arquitecturas cloud en AWS, GCP y Azure.  
+🏗️ Infraestructura como código
+📦 CI/CD, GitOps y automatización  
+
+Mis pilares para que algo sea una buena infraestructura:
+
+- ✅ Robustez
+- ⚡ Eficiencia
+- 📈 Escalabilidad
+- 🔐 Seguridad
+- 🧠 Diseño con criterio, no solo “porque funciona”
+- 💲 Mas no siempre es mejor, hay que entender las necesidades actuales...
+
+No solo hago que despliegue — hago que **despliegue bien**.
+
+---
+
+## 🧰 Common Stack 
+
+**Containers & Orquestación**
+- Kubernetes
+- Helm
+- ArgoCD / GitOps
+- Docker
+
+**Cloud & Infra**
+- AWS - GCP - Azure
+- Terraform / Terragrunt
+
+**CI/CD**
+- GitHub Actions
+- GitLab CI
+- Azure Devops
+
+**Observabilidad**
+- Prometheus
+- Grafana
+- Loki
+  
+---
+
+## 📐 Filosofía de Carrera
+
+> Si no es reproducible — no existe
+> Si no es observable — tienes mucha fe  
+
+---
+
+## 📫 Contacto
+
+LinkedIn: www.linkedin.com/in/izan-deya-bernal-5064a6262
